@@ -1420,12 +1420,3 @@ span:nth-child(17) {
   }
 }
 
-.footer--class {
-  display: flex;
-  flex-direction: column;
-}
-
-.footer-text {
-  color: white;
-  overflow: hidden;
-}
